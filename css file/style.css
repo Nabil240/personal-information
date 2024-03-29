@@ -8,11 +8,13 @@ body{
     color: #FD6E0A;
     font-size: 45px;
     font-weight: 800;
+  
+
 }
 .text-primary-2, a{
-    color: #12fd0a;
-   
+    color: #ffffff;
     text-decoration: none;
+   
 }
 
 
@@ -32,7 +34,8 @@ nav>ul{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    
+    gap: 15px;
+      
 }
 
 header li{
@@ -48,6 +51,7 @@ header li{
     font-size: 20px;
     font-weight: 700;
     padding: 15px 35px;
+ 
 }
 .btn-transparent{
     background-color: transparent;
