@@ -16,7 +16,9 @@ body{
     text-decoration: none;
    
 }
-
+.textbtn>a{
+    color: green;
+}
 
 
 nav{
